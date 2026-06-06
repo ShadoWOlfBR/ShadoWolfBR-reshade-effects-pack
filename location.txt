@@ -1,0 +1,5 @@
+Paste the ShadoWolfBR folder here
+your game\reshade-shaders\Shaders
+
+Cole a pasta ShadoWolfBR aqui.
+seu jogo\reshade-shaders\Shaders
