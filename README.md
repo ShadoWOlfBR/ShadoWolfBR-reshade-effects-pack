@@ -1,0 +1,1 @@
+Shaders .fx especializados em correção geométrica e proporção de tela para ReShade (VR/Ultra-Wide). Inclui algoritmos avançados de distorção senoidal suave para o centro e máscaras de curvatura perfeitamente simétricas. Ideal para ajustar a perspectiva, remover distorções de lente e maximizar a imersão visual sem perda de performance.
